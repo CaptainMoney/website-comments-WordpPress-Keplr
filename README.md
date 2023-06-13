@@ -11,4 +11,6 @@ The website is running on the latest version of WordPress.
 
 https://wordpress.org/documentation/article/comments-in-wordpress/
 
+https://docs.keplr.app/api/
+
 Thanks to any who answer the call for help. 
