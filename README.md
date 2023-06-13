@@ -7,11 +7,9 @@ Looking to add Juno as the token to make a transaction and leave a comment.
 
 The website is running on the latest version of WordPress.
 
-@cosmosnewsy on Twitter and news@cosmosnews.zone for email for contact. 
+@cosmosnewsy on Twitter and news@cosmosnews.zone for contact. 
 
 https://developer.wordpress.org/themes/template-files-section/partial-and-miscellaneous-template-files/comment-template/
-
-https://wordpress.org/documentation/article/comments-in-wordpress/
 
 https://docs.keplr.app/api/
 
