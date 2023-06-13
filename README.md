@@ -9,4 +9,6 @@ The website is running on the latest version of WordPress.
 
 @cosmosnewsy on Twitter and news@cosmosnews.zone for email for contact. 
 
+https://wordpress.org/documentation/article/comments-in-wordpress/
+
 Thanks to any who answer the call for help. 
